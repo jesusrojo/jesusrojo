@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Android, Java, Kotlin, Unit Test, Clean Code, DRY, KISS...
 - 🌱 I’m currently learning Script, PRO Git, CI/CA, DevOps.
-- 👯 I’m looking to collaborate on a project with more people.
+- 👯 I’m looking for work as Junior, Mid-Level developer.
 - 💻 Languages: Java and Kotlin
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jesusrojoprogramador/).
 
